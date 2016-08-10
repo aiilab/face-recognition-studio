@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_green.png",
+        "source": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\src\\main\\res\\drawable-hdpi\\ic_green.png"
+    },
+    {
+        "merged": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_red.png",
+        "source": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\src\\main\\res\\drawable-hdpi\\ic_red.png"
+    },
+    {
+        "merged": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_yellow.png",
+        "source": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\src\\main\\res\\drawable-hdpi\\ic_yellow.png"
+    }
+]

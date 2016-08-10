@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_hand_2.xml",
+        "source": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\src\\main\\res\\raw\\haarcascade_hand_2.xml"
+    },
+    {
+        "merged": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_hand_1.xml",
+        "source": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\src\\main\\res\\raw\\haarcascade_hand_1.xml"
+    },
+    {
+        "merged": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\raw\\lbpcascade_frontalface.xml",
+        "source": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\src\\main\\res\\raw\\lbpcascade_frontalface.xml"
+    },
+    {
+        "merged": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_frontalface_alt.xml",
+        "source": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\src\\main\\res\\raw\\haarcascade_frontalface_alt.xml"
+    },
+    {
+        "merged": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_frontalcatface.xml",
+        "source": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\src\\main\\res\\raw\\haarcascade_frontalcatface.xml"
+    },
+    {
+        "merged": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\build\\intermediates\\res\\merged\\debug\\raw\\haarcascade_frontalface_alt_tree.xml",
+        "source": "E:\\hanwuji\\Hwj_workspace\\Code\\AiiageLab\\face-recognition\\facerecognition\\src\\main\\res\\raw\\haarcascade_frontalface_alt_tree.xml"
+    }
+]

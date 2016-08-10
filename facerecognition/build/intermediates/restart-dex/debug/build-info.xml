@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="528566181180756"
+    token="-7482490352915904322"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="421" />
+    <task
+        name="instant-run-dex"
+        duration="701" />
+    <task
+        name="instant-run-transform"
+        duration="30" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="E:\hanwuji\Hwj_workspace\Code\AiiageLab\face-recognition\facerecognition\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="528501449476845" >
+        <artifact
+            location="E:\hanwuji\Hwj_workspace\Code\AiiageLab\face-recognition\facerecognition\build\outputs\apk\facerecognition-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="528566181180756"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\hanwuji\Hwj_workspace\Code\AiiageLab\face-recognition\facerecognition\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
